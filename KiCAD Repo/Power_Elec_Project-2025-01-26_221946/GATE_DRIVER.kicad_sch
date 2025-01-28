@@ -1,0 +1,63 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3610fb6e-3f13-400a-97ff-2bbf4de42048")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "VSW"
+		(shape output)
+		(at 190.5 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5bf2e1b0-8657-47b4-9f93-807176755fd7")
+	)
+	(hierarchical_label "PWM"
+		(shape input)
+		(at 120.65 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7054aa24-1563-4874-b325-389230fd180b")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 120.65 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a90cb19f-d9b1-4c3b-a394-c28a4c1ab0d8")
+	)
+	(hierarchical_label "5V"
+		(shape input)
+		(at 120.65 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de9e4101-80ba-4f98-823a-ede2fcf3f12e")
+	)
+	(hierarchical_label "VG"
+		(shape output)
+		(at 191.77 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed42c6d6-cabe-4cb6-a461-240d8f82283b")
+	)
+)
