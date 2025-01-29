@@ -29,12 +29,12 @@
 	)
 	(hierarchical_label "VFILT"
 		(shape input)
-		(at 88.9 33.02 0)
+		(at 88.9 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bb165474-5d36-4bc2-b00f-0ffcc3d2e68a")
 	)
