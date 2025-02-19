@@ -596,6 +596,38 @@
 			)
 		)
 	)
+	(no_connect
+		(at 69.85 72.39)
+		(uuid "78af4082-d14d-435f-9f8d-903df4b38e6c")
+	)
+	(no_connect
+		(at 69.85 77.47)
+		(uuid "ba788e46-9be1-4f3e-b0da-eba7113289c3")
+	)
+	(no_connect
+		(at 85.09 74.93)
+		(uuid "d2662469-0673-4204-827f-41c22f50594c")
+	)
+	(wire
+		(pts
+			(xy 50.8 50.8) (xy 54.61 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b3dba6a-b9ac-47ea-863c-1775cb19ac22")
+	)
+	(wire
+		(pts
+			(xy 62.23 50.8) (xy 66.04 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2da997e-3ce5-4953-9cb9-bff2e9997b65")
+	)
 	(wire
 		(pts
 			(xy 31.75 41.91) (xy 34.29 41.91)
@@ -605,16 +637,6 @@
 			(type default)
 		)
 		(uuid "b9001d56-1f8c-44a4-bb5d-bc6f80ed188f")
-	)
-	(wire
-		(pts
-			(xy 62.23 50.8) (xy 69.85 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c318d3a9-78e8-45b3-92f5-cea1f049b1b6")
 	)
 	(wire
 		(pts
@@ -650,12 +672,12 @@
 	)
 	(hierarchical_label "INPUT"
 		(shape input)
-		(at 34.29 68.58 0)
+		(at 40.64 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "b42d3a06-9371-4f82-87f4-17f22155d54e")
 	)
@@ -672,7 +694,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 78.74 109.22 0)
+		(at 39.37 72.39 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -681,7 +703,7 @@
 		(fields_autoplaced yes)
 		(uuid "06598c42-d29c-47cc-80ab-8cd6dbfbed67")
 		(property "Reference" "U1"
-			(at 77.47 107.9499 0)
+			(at 38.1 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -690,7 +712,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 77.47 110.4899 0)
+			(at 38.1 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -699,7 +721,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 78.74 109.22 0)
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -708,7 +730,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 78.74 109.22 0)
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -717,7 +739,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 78.74 109.22 0)
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -726,7 +748,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 78.74 109.22 0)
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -835,7 +857,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 78.74 78.74 0)
+		(at 77.47 74.93 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -844,7 +866,7 @@
 		(fields_autoplaced yes)
 		(uuid "2275d6e5-6e23-406d-82e2-a698b2e030e2")
 		(property "Reference" "U1"
-			(at 78.74 68.58 0)
+			(at 77.47 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -852,7 +874,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 78.74 71.12 0)
+			(at 77.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -860,7 +882,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 78.74 78.74 0)
+			(at 77.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -869,7 +891,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 78.74 78.74 0)
+			(at 77.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -878,7 +900,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 78.74 78.74 0)
+			(at 77.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -887,7 +909,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 78.74 78.74 0)
+			(at 77.47 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1072,17 +1094,84 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:LM358")
-		(at 77.47 53.34 0)
+		(lib_id "power:GND")
+		(at 50.8 50.8 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
+		(uuid "dae1d1a5-d841-40c8-bd53-27aa720c1b70")
+		(property "Reference" "#PWR011"
+			(at 44.45 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 46.99 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55818360-6ea5-474e-b4d9-5f59921f9b55")
+		)
+		(instances
+			(project "Power_Elec_Project"
+				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/24945a6e-9cf1-4d51-984e-568b86374556"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:LM358")
+		(at 73.66 53.34 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "e70fe07d-a36d-49f9-8118-4e046c23cdce")
 		(property "Reference" "U1"
-			(at 77.47 43.18 0)
+			(at 71.12 43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1090,7 +1179,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 77.47 45.72 0)
+			(at 72.39 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1098,7 +1187,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 77.47 53.34 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1107,7 +1196,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
-			(at 77.47 53.34 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1116,7 +1205,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 77.47 53.34 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1125,7 +1214,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 77.47 53.34 0)
+			(at 73.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
