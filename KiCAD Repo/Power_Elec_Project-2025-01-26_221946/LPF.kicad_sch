@@ -908,7 +908,7 @@
 		(uuid "9591b28c-fe28-4f05-8a62-64689eb81c13")
 	)
 	(junction
-		(at 161.29 81.28)
+		(at 177.8 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4bb8456-185d-47f5-a856-4d347fea2ace")
@@ -969,7 +969,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 78.74) (xy 139.7 71.12)
+			(xy 156.21 78.74) (xy 156.21 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1029,7 +1029,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 81.28) (xy 158.75 81.28)
+			(xy 177.8 81.28) (xy 175.26 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1119,7 +1119,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 78.74) (xy 139.7 78.74)
+			(xy 160.02 78.74) (xy 156.21 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1149,7 +1149,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 81.28) (xy 170.18 81.28)
+			(xy 177.8 81.28) (xy 186.69 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1169,7 +1169,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 83.82) (xy 143.51 83.82)
+			(xy 137.16 83.82) (xy 160.02 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1179,7 +1179,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 71.12) (xy 161.29 71.12)
+			(xy 156.21 71.12) (xy 177.8 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1209,7 +1209,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 71.12) (xy 161.29 81.28)
+			(xy 177.8 71.12) (xy 177.8 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1251,7 +1251,7 @@
 	)
 	(hierarchical_label "OUTPUT"
 		(shape output)
-		(at 170.18 81.28 0)
+		(at 186.69 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2371,7 +2371,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 151.13 81.28 0)
+		(at 167.64 81.28 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2380,7 +2380,7 @@
 		(dnp no)
 		(uuid "e70fe07d-a36d-49f9-8118-4e046c23cdce")
 		(property "Reference" "U1"
-			(at 152.908 76.962 0)
+			(at 169.418 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2388,7 +2388,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 152.908 74.422 0)
+			(at 169.418 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2396,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 151.13 81.28 0)
+			(at 167.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2405,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1739934979714&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358"
-			(at 151.13 81.28 0)
+			(at 167.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +2414,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 151.13 81.28 0)
+			(at 167.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2423,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 151.13 81.28 0)
+			(at 167.64 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
