@@ -890,50 +890,50 @@
 		)
 	)
 	(junction
-		(at 140.97 101.6)
+		(at 172.72 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28b6a5a3-9e83-4115-bdd2-f75784435333")
 	)
 	(junction
-		(at 123.19 101.6)
+		(at 154.94 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49561ebe-8e88-4e9a-8bc1-12c967f15484")
 	)
 	(junction
-		(at 73.66 104.14)
+		(at 107.95 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f5facb3-4c6c-4194-a33b-0e4c2ed158a6")
 	)
 	(junction
-		(at 162.56 99.06)
+		(at 194.31 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4bb8456-185d-47f5-a856-4d347fea2ace")
 	)
 	(junction
-		(at 73.66 124.46)
+		(at 107.95 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c638f199-6d82-498c-82d8-0b7f330f65de")
 	)
 	(no_connect
-		(at 111.76 78.74)
+		(at 143.51 78.74)
 		(uuid "3a4d0355-8041-45b3-8f07-5f69f7afc2b9")
 	)
 	(no_connect
-		(at 127 76.2)
+		(at 158.75 76.2)
 		(uuid "70aeb5bf-46c4-4c12-8ef6-8fc04c90179b")
 	)
 	(no_connect
-		(at 111.76 73.66)
+		(at 143.51 73.66)
 		(uuid "8c6676d2-0cb4-4ace-a47a-f61174df2c06")
 	)
 	(wire
 		(pts
-			(xy 73.66 104.14) (xy 73.66 106.68)
+			(xy 107.95 101.6) (xy 107.95 104.14)
 		)
 		(stroke
 			(width 0)
@@ -943,7 +943,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 111.76) (xy 140.97 113.03)
+			(xy 172.72 111.76) (xy 172.72 113.03)
 		)
 		(stroke
 			(width 0)
@@ -953,7 +953,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 118.11) (xy 68.58 124.46)
+			(xy 102.87 115.57) (xy 102.87 121.92)
 		)
 		(stroke
 			(width 0)
@@ -963,7 +963,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 96.52) (xy 140.97 88.9)
+			(xy 172.72 96.52) (xy 172.72 88.9)
 		)
 		(stroke
 			(width 0)
@@ -973,7 +973,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 124.46) (xy 73.66 124.46)
+			(xy 102.87 121.92) (xy 107.95 121.92)
 		)
 		(stroke
 			(width 0)
@@ -983,7 +983,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 104.14) (xy 140.97 101.6)
+			(xy 172.72 104.14) (xy 172.72 101.6)
 		)
 		(stroke
 			(width 0)
@@ -993,7 +993,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 101.6) (xy 73.66 104.14)
+			(xy 107.95 99.06) (xy 107.95 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1003,7 +1003,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 78.74) (xy 71.12 78.74)
+			(xy 105.41 78.74) (xy 102.87 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1013,7 +1013,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 99.06) (xy 160.02 99.06)
+			(xy 194.31 99.06) (xy 191.77 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1023,7 +1023,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 101.6) (xy 123.19 104.14)
+			(xy 154.94 101.6) (xy 154.94 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1033,7 +1033,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 101.6) (xy 123.19 101.6)
+			(xy 144.78 101.6) (xy 154.94 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1043,7 +1043,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 101.6) (xy 127 101.6)
+			(xy 154.94 101.6) (xy 158.75 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1053,7 +1053,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 71.12) (xy 73.66 73.66)
+			(xy 105.41 71.12) (xy 105.41 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1063,7 +1063,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 73.66) (xy 71.12 73.66)
+			(xy 105.41 73.66) (xy 102.87 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1073,7 +1073,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 96.52) (xy 140.97 96.52)
+			(xy 176.53 96.52) (xy 172.72 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1083,7 +1083,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 101.6) (xy 105.41 101.6)
+			(xy 135.89 101.6) (xy 137.16 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1093,7 +1093,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 121.92) (xy 73.66 124.46)
+			(xy 107.95 119.38) (xy 107.95 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1103,7 +1103,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 99.06) (xy 171.45 99.06)
+			(xy 194.31 99.06) (xy 203.2 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1113,7 +1113,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 110.49) (xy 68.58 104.14)
+			(xy 102.87 107.95) (xy 102.87 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1123,7 +1123,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 101.6) (xy 140.97 101.6)
+			(xy 166.37 101.6) (xy 172.72 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1133,7 +1133,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 88.9) (xy 162.56 88.9)
+			(xy 172.72 88.9) (xy 194.31 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1143,7 +1143,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 104.14) (xy 73.66 104.14)
+			(xy 102.87 101.6) (xy 107.95 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1153,7 +1153,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 111.76) (xy 123.19 113.03)
+			(xy 154.94 111.76) (xy 154.94 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1163,7 +1163,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 88.9) (xy 162.56 99.06)
+			(xy 194.31 88.9) (xy 194.31 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1173,7 +1173,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 101.6) (xy 144.78 101.6)
+			(xy 172.72 101.6) (xy 176.53 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1183,7 +1183,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 124.46) (xy 73.66 127)
+			(xy 107.95 121.92) (xy 107.95 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1191,9 +1191,87 @@
 		)
 		(uuid "f8ac658f-2df3-4c78-87ff-64f045371e78")
 	)
-	(text "Exoecting a Quiescent output of 30V. \nThe output of the opamp is between 0v to 3.3v\nTherefore R1 and R2 should generate the gain to scale 30v down to 3.3v/2 = 1.65v"
+	(rectangle
+		(start 93.98 63.5)
+		(end 114.3 86.36)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 72c6f7cc-613e-4cea-bcfa-b75f6e2717b0)
+	)
+	(rectangle
+		(start 92.71 95.25)
+		(end 119.38 129.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bf420073-63be-4879-a05e-d0b9ad3b1304)
+	)
+	(rectangle
+		(start 137.16 63.5)
+		(end 163.83 86.36)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e895f1cf-fb3d-4e01-98fc-43bae8105f03)
+	)
+	(rectangle
+		(start 124.46 87.63)
+		(end 215.9 129.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fd15c4ec-23c9-4cb5-ae81-8a4f9c599515)
+	)
+	(text "Unused"
 		(exclude_from_sim no)
-		(at 97.028 125.476 0)
+		(at 141.478 84.836 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "166be562-a846-445c-b16b-e6728ce05b6e")
+	)
+	(text "RLC LFP"
+		(exclude_from_sim no)
+		(at 130.048 89.662 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "495e1186-3c8b-4eef-8974-835fea0fc726")
+	)
+	(text "Opamp Power"
+		(exclude_from_sim no)
+		(at 99.568 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "582c5605-666e-4081-880d-2d3262ba0e9c")
+	)
+	(text "Expecting a Quiescent input of 30V. \nThe output of the opamp is between 0v to 3.3v\nTherefore R1 and R2 should generate the gain to scale 30v down to 3.3v/2 = 1.65v"
+		(exclude_from_sim no)
+		(at 128.778 125.476 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1202,9 +1280,19 @@
 		)
 		(uuid "8561cc9d-c72e-41cc-a0ae-d26405009397")
 	)
+	(text "Power IO"
+		(exclude_from_sim no)
+		(at 98.806 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dd5c9e7d-ee7e-40a9-98ae-965611f98b20")
+	)
 	(hierarchical_label "GND"
 		(shape input)
-		(at 71.12 78.74 180)
+		(at 102.87 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1215,7 +1303,7 @@
 	)
 	(hierarchical_label "OUTPUT"
 		(shape output)
-		(at 171.45 99.06 0)
+		(at 203.2 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1226,7 +1314,7 @@
 	)
 	(hierarchical_label "INPUT"
 		(shape input)
-		(at 104.14 101.6 180)
+		(at 135.89 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1237,7 +1325,7 @@
 	)
 	(hierarchical_label "3.3V"
 		(shape input)
-		(at 71.12 73.66 180)
+		(at 102.87 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1248,7 +1336,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 76.2 114.3 0)
+		(at 110.49 111.76 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1257,7 +1345,7 @@
 		(fields_autoplaced yes)
 		(uuid "06598c42-d29c-47cc-80ab-8cd6dbfbed67")
 		(property "Reference" "U1"
-			(at 74.93 113.0299 0)
+			(at 109.22 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1266,7 +1354,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 74.93 115.5699 0)
+			(at 109.22 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1275,7 +1363,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 76.2 114.3 0)
+			(at 110.49 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1284,7 +1372,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1739934979714&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358"
-			(at 76.2 114.3 0)
+			(at 110.49 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1293,7 +1381,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 76.2 114.3 0)
+			(at 110.49 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1302,7 +1390,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 76.2 114.3 0)
+			(at 110.49 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1345,7 +1433,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 123.19 113.03 0)
+		(at 154.94 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1354,7 +1442,7 @@
 		(fields_autoplaced yes)
 		(uuid "1e3d158a-0d83-4580-9d13-81dd83dbaa4c")
 		(property "Reference" "#PWR11"
-			(at 123.19 119.38 0)
+			(at 154.94 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1363,7 +1451,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 123.19 118.11 0)
+			(at 154.94 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1371,7 +1459,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 113.03 0)
+			(at 154.94 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1380,7 +1468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 113.03 0)
+			(at 154.94 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1389,7 +1477,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 113.03 0)
+			(at 154.94 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1499,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 73.66 71.12 0)
+		(at 105.41 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1420,7 +1508,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f23b875-fd99-437f-96ab-e6319e7e70ad")
 		(property "Reference" "#PWR09"
-			(at 73.66 74.93 0)
+			(at 105.41 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1429,7 +1517,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 76.2 69.8499 0)
+			(at 107.95 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1438,7 +1526,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 71.12 0)
+			(at 105.41 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1447,7 +1535,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 71.12 0)
+			(at 105.41 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1456,7 +1544,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 73.66 71.12 0)
+			(at 105.41 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1478,7 +1566,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 119.38 76.2 0)
+		(at 151.13 76.2 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1487,7 +1575,7 @@
 		(fields_autoplaced yes)
 		(uuid "2275d6e5-6e23-406d-82e2-a698b2e030e2")
 		(property "Reference" "U1"
-			(at 119.38 66.04 0)
+			(at 151.13 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1495,7 +1583,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 119.38 68.58 0)
+			(at 151.13 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1503,7 +1591,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 119.38 76.2 0)
+			(at 151.13 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1512,7 +1600,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1739934979714&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358"
-			(at 119.38 76.2 0)
+			(at 151.13 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1521,7 +1609,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 119.38 76.2 0)
+			(at 151.13 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1530,7 +1618,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 119.38 76.2 0)
+			(at 151.13 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1573,7 +1661,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 73.66 127 0)
+		(at 107.95 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1582,7 +1670,7 @@
 		(fields_autoplaced yes)
 		(uuid "3751a79a-748b-48f5-813e-bd7a569b6c0e")
 		(property "Reference" "#PWR13"
-			(at 73.66 133.35 0)
+			(at 107.95 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1591,7 +1679,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 128.2699 0)
+			(at 110.49 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1688,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 127 0)
+			(at 107.95 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1609,7 +1697,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 127 0)
+			(at 107.95 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1618,7 +1706,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 73.66 127 0)
+			(at 107.95 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1640,7 +1728,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 123.19 107.95 0)
+		(at 154.94 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1649,7 +1737,7 @@
 		(fields_autoplaced yes)
 		(uuid "4eb15b94-a5a5-4fb0-a18a-acefb1ede7a9")
 		(property "Reference" "C2"
-			(at 127 106.6799 0)
+			(at 158.75 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1658,7 +1746,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 127 109.2199 0)
+			(at 158.75 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1667,7 +1755,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.1552 111.76 0)
+			(at 155.9052 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1676,7 +1764,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 107.95 0)
+			(at 154.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1685,7 +1773,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 123.19 107.95 0)
+			(at 154.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1710,7 +1798,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 140.97 107.95 0)
+		(at 172.72 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1718,7 +1806,7 @@
 		(dnp no)
 		(uuid "5e5551c4-45e9-4ce0-9409-328d645a8859")
 		(property "Reference" "R1"
-			(at 138.43 106.426 0)
+			(at 170.18 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1726,7 +1814,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 137.922 109.728 0)
+			(at 169.672 109.728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1734,7 +1822,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 139.192 107.95 90)
+			(at 170.942 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1743,7 +1831,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 107.95 0)
+			(at 172.72 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1752,7 +1840,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 140.97 107.95 0)
+			(at 172.72 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1761,7 +1849,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 140.97 107.95 90)
+			(at 172.72 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1786,7 +1874,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 109.22 101.6 270)
+		(at 140.97 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1794,7 +1882,7 @@
 		(dnp no)
 		(uuid "8b9c4e32-a01c-4c98-9ebd-081e7bc17db6")
 		(property "Reference" "R2"
-			(at 108.966 97.282 90)
+			(at 140.716 97.282 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1802,7 +1890,7 @@
 			)
 		)
 		(property "Value" "172k"
-			(at 108.458 99.314 90)
+			(at 140.208 99.314 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1810,7 +1898,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 109.22 99.822 90)
+			(at 140.97 99.822 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1819,7 +1907,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/sei-rncf.pdf"
-			(at 109.22 101.6 0)
+			(at 140.97 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1828,7 +1916,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 109.22 101.6 0)
+			(at 140.97 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +1925,7 @@
 			)
 		)
 		(property "Part Number" "RNCF0603BKE172K"
-			(at 109.22 101.6 90)
+			(at 140.97 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1862,7 +1950,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 113.03 0)
+		(at 172.72 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1871,7 +1959,7 @@
 		(fields_autoplaced yes)
 		(uuid "93c1d8fa-e008-4723-b7af-02ba5d009352")
 		(property "Reference" "#PWR14"
-			(at 140.97 119.38 0)
+			(at 172.72 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,7 +1968,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 118.11 0)
+			(at 172.72 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1888,7 +1976,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 113.03 0)
+			(at 172.72 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1897,7 +1985,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 113.03 0)
+			(at 172.72 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1906,7 +1994,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 113.03 0)
+			(at 172.72 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1928,7 +2016,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 68.58 114.3 0)
+		(at 102.87 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1936,7 +2024,7 @@
 		(dnp no)
 		(uuid "a672ce1d-0c5f-4bdf-adfa-21227a3bec29")
 		(property "Reference" "C1"
-			(at 61.976 113.03 0)
+			(at 96.266 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +2033,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 61.976 116.078 0)
+			(at 96.266 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1954,7 +2042,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.5452 118.11 0)
+			(at 103.8352 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1963,7 +2051,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 114.3 0)
+			(at 102.87 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1972,7 +2060,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 68.58 114.3 0)
+			(at 102.87 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1997,7 +2085,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 130.81 101.6 90)
+		(at 162.56 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2006,7 +2094,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9adc570-7362-4566-8e0f-ae52a3450acc")
 		(property "Reference" "L1"
-			(at 130.81 96.52 90)
+			(at 162.56 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,7 +2102,7 @@
 			)
 		)
 		(property "Value" "L"
-			(at 130.81 99.06 90)
+			(at 162.56 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2022,7 +2110,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 101.6 0)
+			(at 162.56 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2031,7 +2119,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 101.6 0)
+			(at 162.56 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2040,7 +2128,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 130.81 101.6 0)
+			(at 162.56 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2065,7 +2153,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 73.66 78.74 0)
+		(at 105.41 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2074,7 +2162,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7e6dbbe-5f87-4b0c-b2c0-8d918265a043")
 		(property "Reference" "#PWR010"
-			(at 73.66 85.09 0)
+			(at 105.41 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2083,7 +2171,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 80.0099 0)
+			(at 107.95 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2092,7 +2180,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 78.74 0)
+			(at 105.41 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,7 +2189,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 78.74 0)
+			(at 105.41 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,7 +2198,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 73.66 78.74 0)
+			(at 105.41 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2132,7 +2220,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 73.66 101.6 0)
+		(at 107.95 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2141,7 +2229,7 @@
 		(fields_autoplaced yes)
 		(uuid "d83ce925-d898-4b1d-b430-a8db7aa6141d")
 		(property "Reference" "#PWR12"
-			(at 73.66 105.41 0)
+			(at 107.95 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,7 +2238,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 76.2 100.3299 0)
+			(at 110.49 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2159,7 +2247,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 101.6 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2168,7 +2256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 101.6 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2177,7 +2265,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 73.66 101.6 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2287,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 152.4 99.06 0)
+		(at 184.15 99.06 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2208,7 +2296,7 @@
 		(dnp no)
 		(uuid "e70fe07d-a36d-49f9-8118-4e046c23cdce")
 		(property "Reference" "U1"
-			(at 154.178 94.742 0)
+			(at 185.928 94.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2216,7 +2304,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 154.178 92.202 0)
+			(at 185.928 92.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2224,7 +2312,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 152.4 99.06 0)
+			(at 184.15 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2233,7 +2321,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1739934979714&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358"
-			(at 152.4 99.06 0)
+			(at 184.15 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2242,7 +2330,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 152.4 99.06 0)
+			(at 184.15 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2251,7 +2339,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 152.4 99.06 0)
+			(at 184.15 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
