@@ -896,12 +896,6 @@
 		(uuid "49561ebe-8e88-4e9a-8bc1-12c967f15484")
 	)
 	(junction
-		(at 148.59 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52663309-899b-445c-bcb9-6e6ebc1b8c54")
-	)
-	(junction
 		(at 85.09 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -914,7 +908,7 @@
 		(uuid "9591b28c-fe28-4f05-8a62-64689eb81c13")
 	)
 	(junction
-		(at 173.99 81.28)
+		(at 161.29 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4bb8456-185d-47f5-a856-4d347fea2ace")
@@ -975,23 +969,13 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 78.74) (xy 152.4 71.12)
+			(xy 139.7 78.74) (xy 139.7 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1f2d0967-a61a-402b-b8d5-c59e01c9f541")
-	)
-	(wire
-		(pts
-			(xy 148.59 83.82) (xy 148.59 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fde3705-af02-4b94-95d8-aa15951b6331")
 	)
 	(wire
 		(pts
@@ -1002,26 +986,6 @@
 			(type default)
 		)
 		(uuid "23989254-e5bc-4777-b276-263e45bf6007")
-	)
-	(wire
-		(pts
-			(xy 148.59 83.82) (xy 156.21 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c5588f3-1d6b-435b-817e-c5e61d155ebe")
-	)
-	(wire
-		(pts
-			(xy 148.59 95.25) (xy 148.59 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37747f3a-e695-453a-bb4b-a4ab7a39f9de")
 	)
 	(wire
 		(pts
@@ -1065,7 +1029,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 81.28) (xy 171.45 81.28)
+			(xy 161.29 81.28) (xy 158.75 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1155,7 +1119,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 78.74) (xy 152.4 78.74)
+			(xy 143.51 78.74) (xy 139.7 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1185,7 +1149,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 81.28) (xy 182.88 81.28)
+			(xy 161.29 81.28) (xy 170.18 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1205,7 +1169,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 83.82) (xy 148.59 83.82)
+			(xy 137.16 83.82) (xy 143.51 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1215,7 +1179,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 71.12) (xy 173.99 71.12)
+			(xy 139.7 71.12) (xy 161.29 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1245,7 +1209,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 71.12) (xy 173.99 81.28)
+			(xy 161.29 71.12) (xy 161.29 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1287,7 +1251,7 @@
 	)
 	(hierarchical_label "OUTPUT"
 		(shape output)
-		(at 182.88 81.28 0)
+		(at 170.18 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2272,82 +2236,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 148.59 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c4d06642-7808-4fd5-b914-0a1d03984c89")
-		(property "Reference" "R3"
-			(at 151.13 88.392 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 151.892 91.694 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 146.812 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 148.59 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 148.59 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83e0d993-d88d-4005-ae02-82f1647e4aa6")
-		)
-		(pin "2"
-			(uuid "d953471d-ec8d-4dda-af83-fc71488397de")
-		)
-		(instances
-			(project "Power_Elec_Project"
-				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/24945a6e-9cf1-4d51-984e-568b86374556"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 85.09 87.63 0)
 		(unit 1)
@@ -2409,72 +2297,6 @@
 			(project ""
 				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/24945a6e-9cf1-4d51-984e-568b86374556"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 148.59 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc716191-1055-40b9-8161-f660f0df11ec")
-		(property "Reference" "#PWR16"
-			(at 148.59 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "67c45e17-f849-42d5-a9ed-428994984d7c")
-		)
-		(instances
-			(project "Power_Elec_Project"
-				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/24945a6e-9cf1-4d51-984e-568b86374556"
-					(reference "#PWR16")
 					(unit 1)
 				)
 			)
@@ -2549,7 +2371,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LM358")
-		(at 163.83 81.28 0)
+		(at 151.13 81.28 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2558,7 +2380,7 @@
 		(dnp no)
 		(uuid "e70fe07d-a36d-49f9-8118-4e046c23cdce")
 		(property "Reference" "U1"
-			(at 165.608 76.962 0)
+			(at 152.908 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2566,7 +2388,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 165.608 74.422 0)
+			(at 152.908 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2574,7 +2396,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
-			(at 163.83 81.28 0)
+			(at 151.13 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2583,7 +2405,7 @@
 			)
 		)
 		(property "Datasheet" "www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1739934979714&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358"
-			(at 163.83 81.28 0)
+			(at 151.13 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +2414,7 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
-			(at 163.83 81.28 0)
+			(at 151.13 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2601,7 +2423,7 @@
 			)
 		)
 		(property "Part Number" "LM358DGKR"
-			(at 163.83 81.28 0)
+			(at 151.13 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
