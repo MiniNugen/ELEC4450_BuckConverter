@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "83d49e8a-bcb4-4a33-8b9f-7fdfc677aad4")
 	(paper "A4")
+	(title_block
+		(date "2025-02-21")
+		(rev "1")
+		(company "M.Nguyen B.Patel S.Dupuis")
+	)
 	(lib_symbols)
 	(hierarchical_label "GND"
 		(shape input)
