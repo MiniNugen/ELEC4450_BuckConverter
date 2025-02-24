@@ -2435,7 +2435,7 @@
 		)
 		(uuid "582c5605-666e-4081-880d-2d3262ba0e9c")
 	)
-	(text "Expecting a Quiescent input of 30V. But This filter will be designed \nfor votlages upto 40V. The output of the amplifier is between 0v to 3.3v.\nThe gain of the amplifier is 8.2V/V.\nTherefore R1 and R2 selected to 40v down to 3.3v/8.2 = 0.402v\nSelected C and L for cutoff frequency at ~5000 rad/s"
+	(text "Expecting a Quiescent input of 30V. But This filter will be designed \nfor votlages upto 50V. The output of the amplifier is between 0v to 3.3v.\nThe gain of the amplifier is 8.2V/V.\nTherefore R1 and R2 selected to 40v down to 3.3v/8.2 = 0.402v\nSelected C and L for cutoff frequency at ~5000 rad/s"
 		(exclude_from_sim no)
 		(at 143.002 143.51 0)
 		(effects
@@ -4376,7 +4376,7 @@
 				)
 			)
 		)
-		(property "Value" "16.2k"
+		(property "Value" "20.5k"
 			(at 160.528 103.124 90)
 			(effects
 				(font
@@ -4402,7 +4402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 16.2K OHM 1% 1/10W 0603"
+		(property "Description" "20.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"
 			(at 161.29 105.41 0)
 			(effects
 				(font
@@ -4411,7 +4411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CR161622F"
+		(property "Part Number" "CR162052F"
 			(at 161.29 105.41 90)
 			(effects
 				(font
