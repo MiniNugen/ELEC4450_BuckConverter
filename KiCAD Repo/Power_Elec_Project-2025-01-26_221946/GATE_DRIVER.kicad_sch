@@ -1744,7 +1744,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 124.46) (xy 245.11 124.46)
+			(xy 227.33 77.47) (xy 236.22 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2064,7 +2064,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 78.74) (xy 49.53 76.2)
+			(xy 73.66 83.82) (xy 73.66 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2184,7 +2184,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 73.66) (xy 58.42 73.66)
+			(xy 72.39 78.74) (xy 82.55 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2194,7 +2194,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 128.27) (xy 245.11 128.27)
+			(xy 227.33 81.28) (xy 236.22 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2294,7 +2294,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 76.2) (xy 48.26 76.2)
+			(xy 73.66 81.28) (xy 72.39 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2344,7 +2344,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 71.12) (xy 49.53 69.85)
+			(xy 73.66 76.2) (xy 73.66 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2354,7 +2354,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 71.12) (xy 49.53 71.12)
+			(xy 72.39 76.2) (xy 73.66 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2403,8 +2403,8 @@
 		(uuid "fb5e1b63-068a-446a-8a97-e7efea1c4360")
 	)
 	(rectangle
-		(start 227.33 116.84)
-		(end 254 142.24)
+		(start 218.44 69.85)
+		(end 245.11 95.25)
 		(stroke
 			(width 0)
 			(type default)
@@ -2415,8 +2415,8 @@
 		(uuid 2c0de0b5-a5af-48ce-9a0d-997573c19351)
 	)
 	(rectangle
-		(start 39.37 62.23)
-		(end 63.5 91.44)
+		(start 63.5 67.31)
+		(end 87.63 96.52)
 		(stroke
 			(width 0)
 			(type default)
@@ -2452,7 +2452,7 @@
 	)
 	(text "Input Signals"
 		(exclude_from_sim no)
-		(at 46.228 89.916 0)
+		(at 70.358 94.996 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2482,7 +2482,7 @@
 	)
 	(text "Output Signals"
 		(exclude_from_sim no)
-		(at 234.95 140.462 0)
+		(at 226.06 93.472 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2501,7 +2501,7 @@
 		(uuid "1a1991b6-f7cf-417e-bf9e-29646094d50a")
 	)
 	(label "PWM"
-		(at 58.42 73.66 180)
+		(at 82.55 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2521,7 +2521,7 @@
 		(uuid "7872b92a-87c6-4024-b62f-60424ef25e12")
 	)
 	(label "GND"
-		(at 49.53 78.74 0)
+		(at 73.66 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2531,7 +2531,7 @@
 		(uuid "d112ac8f-8d8a-46a1-bbb2-0a41fb444bba")
 	)
 	(label "Vgs"
-		(at 236.22 124.46 0)
+		(at 227.33 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2542,7 +2542,7 @@
 	)
 	(hierarchical_label "VSW"
 		(shape output)
-		(at 245.11 128.27 0)
+		(at 236.22 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2553,7 +2553,7 @@
 	)
 	(hierarchical_label "PWM"
 		(shape input)
-		(at 48.26 73.66 180)
+		(at 72.39 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2564,7 +2564,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape input)
-		(at 48.26 76.2 180)
+		(at 72.39 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2575,7 +2575,7 @@
 	)
 	(hierarchical_label "5V"
 		(shape input)
-		(at 48.26 71.12 180)
+		(at 72.39 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2586,7 +2586,7 @@
 	)
 	(hierarchical_label "VG"
 		(shape output)
-		(at 245.11 124.46 0)
+		(at 236.22 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2919,7 +2919,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 49.53 78.74 0)
+		(at 73.66 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2928,7 +2928,7 @@
 		(fields_autoplaced yes)
 		(uuid "29c6c803-ff62-4bbf-b906-07f1f3b840bb")
 		(property "Reference" "#PWR018"
-			(at 49.53 85.09 0)
+			(at 73.66 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2937,7 +2937,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 49.53 83.82 0)
+			(at 73.66 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +2945,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 78.74 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +2954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 78.74 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2963,7 +2963,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 49.53 78.74 0)
+			(at 73.66 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +4144,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 49.53 69.85 0)
+		(at 73.66 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4153,7 +4153,7 @@
 		(fields_autoplaced yes)
 		(uuid "b97855d3-6939-4b1b-862f-6056f464db67")
 		(property "Reference" "#PWR015"
-			(at 49.53 73.66 0)
+			(at 73.66 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4162,7 +4162,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 49.53 64.77 0)
+			(at 73.66 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4170,7 +4170,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 69.85 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4179,7 +4179,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 69.85 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4188,7 +4188,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 49.53 69.85 0)
+			(at 73.66 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,7 +4286,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 236.22 128.27 0)
+		(at 227.33 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4295,7 +4295,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9f61854-2efc-459b-a559-077fbdb4832a")
 		(property "Reference" "#PWR023"
-			(at 236.22 134.62 0)
+			(at 227.33 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4304,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 236.22 133.35 0)
+			(at 227.33 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4312,7 +4312,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 128.27 0)
+			(at 227.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4321,7 +4321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 128.27 0)
+			(at 227.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 236.22 128.27 0)
+			(at 227.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
