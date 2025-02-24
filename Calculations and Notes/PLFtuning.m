@@ -1,14 +1,8 @@
 Rl=34;
-% Rin=2835;
 Rin = 16235;
-R1=165;
-
-wc = 250; %rad/s
-wl = 11000;%rad/s
-%C=1/(wc*Rin);
-L = (Rl+R1)/wl;
+Ro=165;
+L = 0.0181;
 C= 1.5e-6;
-s = tf('s');
-G = (R1/(Rin*C*L)) / ((s+1/(C*Rin))*(s+ ((Rl+R1)/L) ))
-[p,z] = pzmap(G)
-margin(G);
+H = tf([Ro],[L*C*Rin, L+(C*Rin*Rl)+(C*Rin*Ro), (Rin+Rl+Ro)]);
+margin(H);
+[p,z] = pzmap(H)
