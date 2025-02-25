@@ -2426,7 +2426,7 @@
 	)
 	(text "3.3v to 3.3v Isolated \nPower Source"
 		(exclude_from_sim no)
-		(at 45.72 123.19 0)
+		(at 48.514 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3952,6 +3952,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "R05C1TF05S-R"
+			(at 72.39 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

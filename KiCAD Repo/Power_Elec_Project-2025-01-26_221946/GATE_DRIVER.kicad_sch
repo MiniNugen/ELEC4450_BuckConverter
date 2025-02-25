@@ -3783,6 +3783,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "US2AA"
+			(at 200.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dba3aef7-ca39-48ab-802e-a240f0027f5d")
 		)
