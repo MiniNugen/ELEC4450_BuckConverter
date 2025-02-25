@@ -1176,6 +1176,12 @@
 		(uuid "4896ce5e-b6d2-4b42-8b07-b48a7cb3d837")
 	)
 	(junction
+		(at 144.78 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6116a7b3-c129-4750-9855-53510b12bfcd")
+	)
+	(junction
 		(at 171.45 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1196,6 +1202,16 @@
 			(type default)
 		)
 		(uuid "028999e7-095b-4323-aa61-052bec849208")
+	)
+	(wire
+		(pts
+			(xy 144.78 114.3) (xy 149.86 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d8af84b-6686-4b3e-b5d2-e2268a2c960d")
 	)
 	(wire
 		(pts
@@ -1339,7 +1355,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 114.3) (xy 149.86 114.3)
+			(xy 137.16 114.3) (xy 144.78 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1493,7 +1509,7 @@
 	)
 	(rectangle
 		(start 120.65 85.09)
-		(end 210.82 118.11)
+		(end 210.82 120.65)
 		(stroke
 			(width 0)
 			(type default)
@@ -2393,6 +2409,72 @@
 			(project "Power_Elec_Project"
 				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/50dafc5c-3cd3-4388-aec3-9b121726b53c"
 					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 144.78 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9097a365-72c3-4f8f-ac63-b3f55a083aa9")
+		(property "Reference" "#PWR069"
+			(at 144.78 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 144.653 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 144.78 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2463343b-e263-4e0a-9dd5-bf6ed2ac53cd")
+		)
+		(instances
+			(project "Power_Elec_Project"
+				(path "/ecd51ed2-b30f-41c1-93fa-3d04786e684e/50dafc5c-3cd3-4388-aec3-9b121726b53c"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
