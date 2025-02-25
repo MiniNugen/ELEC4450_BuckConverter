@@ -1766,7 +1766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "4.7uF"
 			(at 196.85 104.1399 0)
 			(effects
 				(font
@@ -1775,7 +1775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 194.0052 106.68 0)
 			(effects
 				(font
@@ -1793,7 +1793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7 µF ±10% 50V Ceramic Capacitor X5R 1206 (3216 Metric)"
 			(at 193.04 102.87 0)
 			(effects
 				(font
@@ -1802,7 +1802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "A759KK225M2EAAE685"
+		(property "Part Number" "GRM319R61H475KA12D"
 			(at 193.04 102.87 0)
 			(effects
 				(font
