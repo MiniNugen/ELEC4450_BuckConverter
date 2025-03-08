@@ -1,4 +1,4 @@
-24646014884399395
+24665158261009598
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+Barrel Inductor AIRD-06-182K
+AIRD-06_ABR
+
+AIRD-06-182K 
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -55194,6 +55201,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+CustomLIB
+Inductor_Throughhole_Radial; D=60mm, P=47mm
+
+
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -68557,6 +68571,55 @@ net tie
 0
 4
 4
+Opamp AMC1200SDUBR
+DUB0008A-IPC_A
+
+AMC1200SDUBR 
+0
+8
+8
+Opamp AMC1200SDUBR
+DUB0008A-IPC_B
+
+AMC1200SDUBR 
+0
+8
+8
+Opamp AMC1200SDUBR
+DUB0008A-IPC_C
+
+AMC1200SDUBR 
+0
+8
+8
+Opamp AMC1200SDUBR
+DUB0008A-MFG
+
+AMC1200SDUBR 
+0
+8
+8
+Opamp AMC1300DWVR
+DWV8_TEX
+
+AMC1300DWVR 
+0
+8
+8
+Opamp AMC1300DWVR
+DWV8_TEX-L
+
+AMC1300DWVR 
+0
+8
+8
+Opamp AMC1300DWVR
+DWV8_TEX-M
+
+AMC1300DWVR 
+0
+8
+8
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -87506,6 +87569,13 @@ Potentiometer vertical vishay
 0
 3
 3
+R05C1TF05S-R
+CONV_R05C1TF05S-R
+
+
+0
+8
+8
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -92721,6 +92791,13 @@ Logo WEEE
 0
 0
 0
+TMV_0512SHI
+TMV-HI_SINGLE_TRP
+
+TMV 0512SHI 
+0
+4
+4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

@@ -2861,7 +2861,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2mH"
+		(property "Value" "68mH"
 			(at 182.88 90.17 90)
 			(effects
 				(font
@@ -2869,7 +2869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Barrel Inductor AIRD-06-182K:AIRD-06_ABR"
+		(property "Footprint" "CustomLIB:Inductor_Throughhole_Radial; D=60mm, P=47mm"
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -2887,7 +2887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "68 mH Unshielded Wirewound Inductor 1.3 A 5.22Ohm Max Radial, Vertical Cylinder"
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -2896,7 +2896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "AIRD-06-182K"
+		(property "Part Number" "RL-1256-7-68000"
 			(at 182.88 92.71 0)
 			(effects
 				(font
