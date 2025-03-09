@@ -2552,7 +2552,7 @@
 		(uuid "102fe9ea-b77b-4def-859b-ddde4c7557f9")
 	)
 	(no_connect
-		(at 87.63 69.85)
+		(at 149.86 69.85)
 		(uuid "103e8b68-bad2-46cd-8dd1-0d58bd597b29")
 	)
 	(no_connect
@@ -2560,7 +2560,7 @@
 		(uuid "10c72bfb-b6b7-4ad0-b71a-10e9f5d54ee9")
 	)
 	(no_connect
-		(at 152.4 87.63)
+		(at 88.9 85.09)
 		(uuid "14eda4a5-2c19-453e-8f3e-f68e7ef77d5b")
 	)
 	(no_connect
@@ -2568,7 +2568,7 @@
 		(uuid "1921e410-178a-4e0b-9bcc-221abd659990")
 	)
 	(no_connect
-		(at 152.4 80.01)
+		(at 88.9 77.47)
 		(uuid "1bab6253-139c-41fa-947d-f5ee89521238")
 	)
 	(no_connect
@@ -2592,7 +2592,7 @@
 		(uuid "2ab2b402-cb50-438b-bc29-a0dc3852c23a")
 	)
 	(no_connect
-		(at 217.17 95.25)
+		(at 220.98 92.71)
 		(uuid "2c69b68e-32f9-40ac-9b32-45635b3143d2")
 	)
 	(no_connect
@@ -2600,7 +2600,7 @@
 		(uuid "2cb01287-45a8-4bea-91a4-218ea02dd5a7")
 	)
 	(no_connect
-		(at 152.4 82.55)
+		(at 88.9 80.01)
 		(uuid "2e917aba-5005-4aef-8b22-39b11d096822")
 	)
 	(no_connect
@@ -2612,7 +2612,7 @@
 		(uuid "382cd0de-db62-4edc-97b4-3be9e36da50b")
 	)
 	(no_connect
-		(at 217.17 74.93)
+		(at 220.98 72.39)
 		(uuid "39f6f3d0-116a-465b-83d3-14e570db4357")
 	)
 	(no_connect
@@ -2628,7 +2628,7 @@
 		(uuid "45a8c93c-2623-4c54-8585-333afaf62f3a")
 	)
 	(no_connect
-		(at 152.4 92.71)
+		(at 88.9 90.17)
 		(uuid "5267c010-6266-44e7-8a0f-a9ffaca0c39e")
 	)
 	(no_connect
@@ -2640,7 +2640,7 @@
 		(uuid "563eb12f-aa2f-4343-86c3-80be2e679695")
 	)
 	(no_connect
-		(at 87.63 92.71)
+		(at 149.86 92.71)
 		(uuid "5c291534-7963-4248-bdd2-e4c5a9cb0e91")
 	)
 	(no_connect
@@ -2648,11 +2648,11 @@
 		(uuid "5cfe1cd5-a2c4-42aa-bf6b-5b8e2dbe1712")
 	)
 	(no_connect
-		(at 87.63 72.39)
+		(at 149.86 72.39)
 		(uuid "5e89e1dc-b582-499d-9988-f5bdf7d1859c")
 	)
 	(no_connect
-		(at 152.4 74.93)
+		(at 88.9 72.39)
 		(uuid "615ecc54-f83d-4af1-ad1f-7aac2a0137b6")
 	)
 	(no_connect
@@ -2664,11 +2664,11 @@
 		(uuid "65529f96-d963-44db-b5c1-dbd395a1dade")
 	)
 	(no_connect
-		(at 87.63 87.63)
+		(at 149.86 87.63)
 		(uuid "66272be7-9950-4a8b-8e46-840afaadc502")
 	)
 	(no_connect
-		(at 152.4 77.47)
+		(at 88.9 74.93)
 		(uuid "6906e191-5670-405f-aec6-85d18461bec7")
 	)
 	(no_connect
@@ -2676,7 +2676,7 @@
 		(uuid "69c218de-e5eb-4f67-8c16-72c54ac77b9c")
 	)
 	(no_connect
-		(at 217.17 92.71)
+		(at 220.98 90.17)
 		(uuid "69cf5632-7418-47f9-92ff-5cf91a66d1e8")
 	)
 	(no_connect
@@ -2688,7 +2688,7 @@
 		(uuid "6aed4d96-de81-4147-ae58-ec96384e1c3d")
 	)
 	(no_connect
-		(at 217.17 87.63)
+		(at 220.98 85.09)
 		(uuid "6ce0ef02-ee09-4d08-8be2-787a07ff324a")
 	)
 	(no_connect
@@ -2700,7 +2700,7 @@
 		(uuid "6f096860-404f-4ab1-a3b9-d24aa5ed9c4b")
 	)
 	(no_connect
-		(at 87.63 90.17)
+		(at 149.86 90.17)
 		(uuid "6f5e5f00-964c-4563-b697-efc4721f6584")
 	)
 	(no_connect
@@ -2728,7 +2728,7 @@
 		(uuid "7bdb329e-3c38-4810-8909-c2277ca3a6cd")
 	)
 	(no_connect
-		(at 217.17 82.55)
+		(at 220.98 80.01)
 		(uuid "7c976240-2efb-4850-8e97-e02d39c6a179")
 	)
 	(no_connect
@@ -2736,11 +2736,11 @@
 		(uuid "7ed41928-17ab-42ed-91cb-c64a2731711b")
 	)
 	(no_connect
-		(at 217.17 72.39)
+		(at 220.98 69.85)
 		(uuid "7fea6ae7-b2f0-4073-8568-845de317881f")
 	)
 	(no_connect
-		(at 217.17 90.17)
+		(at 220.98 87.63)
 		(uuid "8c56c2d9-be83-4b2d-9196-aae1f1023925")
 	)
 	(no_connect
@@ -2764,7 +2764,7 @@
 		(uuid "9e91cb98-6e86-4a82-9c83-17fad61f153c")
 	)
 	(no_connect
-		(at 152.4 90.17)
+		(at 88.9 87.63)
 		(uuid "a13c8d6c-98c4-4113-84ba-6cfa4ba802c1")
 	)
 	(no_connect
@@ -2772,11 +2772,11 @@
 		(uuid "a88fc979-2907-4f35-aaa5-cb6f8b80810a")
 	)
 	(no_connect
-		(at 87.63 82.55)
+		(at 149.86 82.55)
 		(uuid "a949d34f-0a89-4824-9758-05ebd658564a")
 	)
 	(no_connect
-		(at 217.17 77.47)
+		(at 220.98 74.93)
 		(uuid "ac8fcea0-f528-445e-9900-31dfc12b4572")
 	)
 	(no_connect
@@ -2784,11 +2784,11 @@
 		(uuid "af8baa41-2f23-49d0-b7dd-7274892aabb0")
 	)
 	(no_connect
-		(at 87.63 74.93)
+		(at 149.86 74.93)
 		(uuid "afaac756-a8db-4a40-8b36-a97f9b3014a6")
 	)
 	(no_connect
-		(at 87.63 77.47)
+		(at 149.86 77.47)
 		(uuid "b0b18121-dc62-4515-ae8e-9b5f121e6ca4")
 	)
 	(no_connect
@@ -2816,11 +2816,11 @@
 		(uuid "bd67b4f2-d1e2-4fb9-b2d7-89eec0bd15c9")
 	)
 	(no_connect
-		(at 152.4 85.09)
+		(at 88.9 82.55)
 		(uuid "be8bfa83-67f7-44c7-8162-7e814d476046")
 	)
 	(no_connect
-		(at 87.63 85.09)
+		(at 149.86 85.09)
 		(uuid "bea419dc-6c85-431a-9b2a-1709c94eb9cc")
 	)
 	(no_connect
@@ -2868,7 +2868,7 @@
 		(uuid "e0882761-bb04-4435-9961-b6bdea2eab98")
 	)
 	(no_connect
-		(at 87.63 80.01)
+		(at 149.86 80.01)
 		(uuid "e1fde9c1-92c3-4430-b7be-8e52c452f9d6")
 	)
 	(no_connect
@@ -2892,7 +2892,7 @@
 		(uuid "f9c8432d-a353-45e2-8634-e8956ababd89")
 	)
 	(no_connect
-		(at 217.17 80.01)
+		(at 220.98 77.47)
 		(uuid "fe05355e-1821-4ebd-8374-f74b0b9d1171")
 	)
 	(wire
@@ -2907,7 +2907,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 69.85) (xy 152.4 69.85)
+			(xy 83.82 67.31) (xy 88.9 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2937,7 +2937,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 85.09) (xy 217.17 85.09)
+			(xy 217.17 82.55) (xy 220.98 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3057,7 +3057,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 72.39) (xy 152.4 72.39)
+			(xy 85.09 69.85) (xy 88.9 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3078,7 +3078,7 @@
 		(uuid 4b4183d1-1776-4c1d-8491-362f78f2847c)
 	)
 	(label "PWM"
-		(at 213.36 85.09 0)
+		(at 217.17 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3666,7 +3666,7 @@
 	)
 	(symbol
 		(lib_id "LAUNCHXL-F28379D:LAUNCHXL-F28379D")
-		(at 237.49 85.09 0)
+		(at 241.3 82.55 0)
 		(unit 8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3675,7 +3675,7 @@
 		(fields_autoplaced yes)
 		(uuid "08eed07a-6f5e-4596-8114-0e4323cd44db")
 		(property "Reference" "U2"
-			(at 254 83.8199 0)
+			(at 257.81 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3684,7 +3684,7 @@
 			)
 		)
 		(property "Value" "LAUNCHXL-F28379D"
-			(at 254 86.3599 0)
+			(at 257.81 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3693,7 +3693,7 @@
 			)
 		)
 		(property "Footprint" "F28379D:MOD_LAUNCHXL-F28379D"
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3703,7 +3703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3712,7 +3712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3721,7 +3721,7 @@
 			)
 		)
 		(property "PARTREV" "2.0"
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3731,7 +3731,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3741,7 +3741,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3751,7 +3751,7 @@
 			)
 		)
 		(property "Part Number" "LAUNCHXL-F28379D"
-			(at 237.49 85.09 0)
+			(at 241.3 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5992,7 +5992,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 147.32 69.85 90)
+		(at 83.82 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6001,7 +6001,7 @@
 		(fields_autoplaced yes)
 		(uuid "41492445-45a9-4042-ab46-d6a461df33b7")
 		(property "Reference" "#PWR051"
-			(at 151.13 69.85 0)
+			(at 87.63 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,7 +6010,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 143.51 69.8499 90)
+			(at 80.01 67.3099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6019,7 +6019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 69.85 0)
+			(at 83.82 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6028,7 +6028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 69.85 0)
+			(at 83.82 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6037,7 +6037,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 147.32 69.85 0)
+			(at 83.82 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7734,7 +7734,7 @@
 	)
 	(symbol
 		(lib_id "LAUNCHXL-F28379D:LAUNCHXL-F28379D")
-		(at 107.95 82.55 0)
+		(at 170.18 82.55 0)
 		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7743,7 +7743,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0e0062e-43d6-4234-95b8-2c509c3cf38d")
 		(property "Reference" "U2"
-			(at 124.46 81.2799 0)
+			(at 186.69 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7752,7 +7752,7 @@
 			)
 		)
 		(property "Value" "LAUNCHXL-F28379D"
-			(at 124.46 83.8199 0)
+			(at 186.69 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7761,7 +7761,7 @@
 			)
 		)
 		(property "Footprint" "F28379D:MOD_LAUNCHXL-F28379D"
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7771,7 +7771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7780,7 +7780,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7789,7 +7789,7 @@
 			)
 		)
 		(property "PARTREV" "2.0"
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7799,7 +7799,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7809,7 +7809,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7819,7 +7819,7 @@
 			)
 		)
 		(property "Part Number" "LAUNCHXL-F28379D"
-			(at 107.95 82.55 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8919,7 +8919,7 @@
 	)
 	(symbol
 		(lib_id "LAUNCHXL-F28379D:LAUNCHXL-F28379D")
-		(at 172.72 82.55 0)
+		(at 109.22 80.01 0)
 		(unit 7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8928,7 +8928,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf21de61-fc25-4377-b1eb-9638df4f12f6")
 		(property "Reference" "U2"
-			(at 189.23 81.2799 0)
+			(at 125.73 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8937,7 +8937,7 @@
 			)
 		)
 		(property "Value" "LAUNCHXL-F28379D"
-			(at 189.23 83.8199 0)
+			(at 125.73 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8946,7 +8946,7 @@
 			)
 		)
 		(property "Footprint" "F28379D:MOD_LAUNCHXL-F28379D"
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8956,7 +8956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8965,7 +8965,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8974,7 +8974,7 @@
 			)
 		)
 		(property "PARTREV" "2.0"
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8984,7 +8984,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8994,7 +8994,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9004,7 +9004,7 @@
 			)
 		)
 		(property "Part Number" "LAUNCHXL-F28379D"
-			(at 172.72 82.55 0)
+			(at 109.22 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,7 +9344,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 72.39 270)
+		(at 85.09 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9353,7 +9353,7 @@
 		(fields_autoplaced yes)
 		(uuid "db45398d-d10b-45ed-9505-ee35833dc4ed")
 		(property "Reference" "#PWR052"
-			(at 142.24 72.39 0)
+			(at 78.74 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9362,7 +9362,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 144.78 72.3899 90)
+			(at 81.28 69.8499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9371,7 +9371,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 72.39 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9380,7 +9380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 72.39 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9389,7 +9389,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 72.39 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
