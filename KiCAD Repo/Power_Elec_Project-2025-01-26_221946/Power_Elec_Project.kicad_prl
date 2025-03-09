@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -11,7 +11,7 @@
       "images": 0.6700000166893005,
       "pads": 0.699999988079071,
       "tracks": 1.0,
-      "vias": 0.7799999713897705,
+      "vias": 1.0,
       "zones": 0.6
     },
     "selection_filter": {
@@ -34,6 +34,7 @@
       3,
       4,
       5,
+      7,
       8,
       9,
       10,
@@ -42,7 +43,6 @@
       13,
       15,
       16,
-      17,
       18,
       19,
       20,
@@ -55,13 +55,13 @@
       27,
       28,
       29,
-      30,
       32,
       33,
       34,
       35,
       36,
       37,
+      39,
       40
     ],
     "visible_layers": "ffcffff_ffffffff",
