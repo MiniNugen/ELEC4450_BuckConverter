@@ -7,3 +7,4 @@ H = tf([Ro],[L*C*Rin, L+(C*Rin*Rl)+(C*Rin*Ro), (Rin+Rl+Ro)]);
 margin(H);
 [p,z] = pzmap(H)
 B = bandwidth(H)
+    
